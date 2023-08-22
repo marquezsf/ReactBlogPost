@@ -20,7 +20,7 @@ const App = () => {
         <SingleComment picture={profile3} name='Joe' date='Today at 6:00pm' text='bad day'/>
         </UserCard>
         
-                </div>
+        </div>
     )
 }
 
